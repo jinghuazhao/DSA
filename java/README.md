@@ -1,8 +1,13 @@
 ## Java programs
 
-* Duan A. Bailey. **Java Structures**, http://www.cs.williams.edu/JavaStructures
+### Duan A. Bailey. **Java Structures**
 
-* Robert Sedgewick, Kevin Wayne, **Algorithms, 4e**, https://algs4.cs.princeton.edu/home/
+http://www.cs.williams.edu/JavaStructures
+
+### Robert Sedgewick, Kevin Wayne, **Algorithms, 4e**
+
+https://algs4.cs.princeton.edu/home/
+
   * https://github.com/kevin-wayne/algs4
   * https://introcs.cs.princeton.edu/java/stdlib/
   * https://www.cs.princeton.edu/~rs/
