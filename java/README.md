@@ -9,6 +9,14 @@
 
 **Example**
 
+The simplest one is from the web site,
+```bash
+wget https://introcs.cs.princeton.edu/java/15inout/Average.java
+javac Average.java
+java Average
+```
+
+Now we have a go with those in algs4
 ```bash
 git clone https://github.com/kevin-wayne/algs4
 wget https://introcs.cs.princeton.edu/java/stdlib/stdlib.jar
