@@ -23,7 +23,7 @@ wget https://introcs.cs.princeton.edu/java/stdlib/stdlib.jar
 tar xjf stdlib.jar
 export CLASSPATH=$(PWD)
 ```
-where we unjar stdlib.jar to allow for closer examination of the implementation.
+where we unjar `stdlib.jar` to allow for closer examination of the implementation.
 
 **Example**
 
