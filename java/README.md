@@ -42,7 +42,7 @@ javac edu/princeton/cs/algs4/CPM.java
 java  edu.princeton.cs.algs4.CPM < jobsPC.txt
 ```
 
-Additionally, we can use `algs4.jar` directly,
+Alternatively, we can use `algs4.jar` directly,
 ```bash
 java -cp .:algs4.jar edu.princeton.cs.algs4.FFT 2
 ```
