@@ -1,5 +1,13 @@
 ## Java programs
 
+The simplest one is from the web site,
+```bash
+wget https://introcs.cs.princeton.edu/java/15inout/Average.java
+javac Average.java
+java Average
+```
+We now turn to two references.
+
 ### Duan A. Bailey. **Java Structures**
 
 http://www.cs.williams.edu/JavaStructures
@@ -12,12 +20,6 @@ https://algs4.cs.princeton.edu/home/
   * https://introcs.cs.princeton.edu/java/stdlib/
   * https://www.cs.princeton.edu/~rs/
 
-The simplest one is from the web site,
-```bash
-wget https://introcs.cs.princeton.edu/java/15inout/Average.java
-javac Average.java
-java Average
-```
 As for the algorithms, we can start with precompiled versions,
 ```bash
 wget https://algs4.cs.princeton.edu/code/algs4.jar
