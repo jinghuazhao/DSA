@@ -1,18 +1,18 @@
 ## Java programs
 
-The simplest one is from the web site,
+We start with [Average.java](https://introcs.cs.princeton.edu/java/15inout/Average.java),
 ```bash
 wget https://introcs.cs.princeton.edu/java/15inout/Average.java
 javac Average.java
 java Average
 ```
-We now turn to two references.
+and followed by two references.
 
-### Duan A. Bailey. **Java Structures**
+### Duan A. Bailey (2007). **Java Structures**, sqrt(7)e.
 
 http://www.cs.williams.edu/JavaStructures
 
-### Robert Sedgewick, Kevin Wayne, **Algorithms, 4e**
+### Robert Sedgewick, Kevin Wayne (2011), **Algorithms, 4e**, Addison-Wesley
 
 https://algs4.cs.princeton.edu/home/
 
@@ -20,7 +20,7 @@ https://algs4.cs.princeton.edu/home/
   * https://introcs.cs.princeton.edu/java/stdlib/
   * https://www.cs.princeton.edu/~rs/
 
-As for the algorithms, we can start with precompiled versions,
+We have a go with precompiled versions,
 ```bash
 wget https://algs4.cs.princeton.edu/code/algs4.jar
 wget https://introcs.cs.princeton.edu/java/stdlib/stdlib.jar
@@ -42,5 +42,4 @@ wget https://algs4.cs.princeton.edu/44sp/jobsPC.txt
 javac edu/princeton/cs/algs4/CPM.java
 java  edu.princeton.cs.algs4.CPM < jobsPC.txt
 ```
-
 Lastly, we could build `algs4-1.0.0.0.jar` with maven, i.e., `mvn` so the much desired .jar is in the target/ directory whose content can be listed with `jar tvf` just as `tar tvf`.
