@@ -1,4 +1,4 @@
 # DSA
 Data Structures and Algorithms
 
-The repository contains curated codes for data structures and algorithms.
+The repository contains information on (classic implementation of) data structures and algorithms.
