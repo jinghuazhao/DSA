@@ -41,24 +41,16 @@ We have a go with precompiled versions,
 wget https://algs4.cs.princeton.edu/code/algs4.jar
 wget https://introcs.cs.princeton.edu/java/stdlib/stdlib.jar
 java -cp .:algs4.jar:stdlib.jar edu.princeton.cs.algs4.FFT 2
+export wd=$(PWD)
 ```
 and for closer examination of the implementation, we do
 ```bash
-# source
 git clone https://github.com/kevin-wayne/algs4
 cd algs4
-# mvn package
+mvn package
 cd src/main/java/
-# jar
-wget https://introcs.cs.princeton.edu/java/stdlib/stdlib.jar
-tar xjf stdlib.jar
-export CLASSPATH=$(PWD)
-```
-Now we have a go with `CPM.java`
-```bash
-# from CPM.java the location of the test file is fetched
 wget https://algs4.cs.princeton.edu/44sp/jobsPC.txt
 javac edu/princeton/cs/algs4/CPM.java
-java  edu.princeton.cs.algs4.CPM < jobsPC.txt
+java -cp $wd/stdlib.jar edu.princeton.cs.algs4.CPM < jobsPC.txt
 ```
-By invoking `mvn package` above we could build `algs4-1.0.0.0.jar` with maven, to the target/ directory whose content can be listed with `jar tvf` just as `tar tvf`.
+By invoking `mvn package` above `algs4-1.0.0.0.jar` is built with maven to the target/ directory whose content can be listed with `jar tvf` just as `tar tvf`.
