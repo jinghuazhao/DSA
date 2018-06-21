@@ -8,9 +8,17 @@ java Average
 ```
 and continue with two references.
 
-### Duan A. Bailey (2007). **Java Structures**, sqrt(7)e.
+### Duan A. Bailey (2007). **Java Structures**, sqrt(7)e, http://www.cs.williams.edu/JavaStructures/Book_files/JavaStructures.pdf.
 
-http://www.cs.williams.edu/JavaStructures
+http://www.cs.williams.edu/JavaStructures and http://www.cs.williams.edu/~bailey/JavaStructures/JS-site.tgz
+
+The second edition is available from http://www.cs.williams.edu/~bailey/JavaStructures2/.
+
+```bash
+wget http://www.cs.williams.edu/JavaStructures/Software_files/bailey.jar
+wget http://www.cs.williams.edu/JavaStructures/Software_files/structure-source.tgz
+wget http://www.cs.williams.edu/JavaStructures/Examples_files/structure-examples.tgz
+```
 
 ### Robert Sedgewick, Kevin Wayne (2011), **Algorithms, 4e**, Addison-Wesley
 
