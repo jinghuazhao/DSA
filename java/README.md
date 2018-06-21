@@ -46,8 +46,9 @@ and for closer examination of the implementation, we do
 ```bash
 # source
 git clone https://github.com/kevin-wayne/algs4
-# mvn
-cd algs4/src/main/java/
+cd algs4
+# mvn package
+cd src/main/java/
 # jar
 wget https://introcs.cs.princeton.edu/java/stdlib/stdlib.jar
 tar xjf stdlib.jar
