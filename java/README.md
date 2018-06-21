@@ -12,7 +12,7 @@ and continue with two references.
 
 http://www.cs.williams.edu/JavaStructures and http://www.cs.williams.edu/~bailey/JavaStructures/JS-site.tgz
 
-The second edition is available from http://www.cs.williams.edu/~bailey/JavaStructures2/.
+This is the simpler of the two in terms of setup.
 
 ```bash
 wget http://www.cs.williams.edu/JavaStructures/Software_files/bailey.jar
@@ -26,7 +26,7 @@ cp eg/structure5/Sort.java .
 javac Sort.java
 java -cp .:bailey.jar Sort
 ```
-and key in some numbers and end with Ctrl-D to get the desired sequence.
+and type a list of numbers to the console and end with Ctrl-D to get the sorted sequence.
 
 ### 2. Robert Sedgewick, Kevin Wayne (2011), **Algorithms, 4e**, Pearson.
 
