@@ -6,7 +6,7 @@ wget https://introcs.cs.princeton.edu/java/15inout/Average.java
 javac Average.java
 java Average
 ```
-and followed by two references.
+and continue with two references.
 
 ### Duan A. Bailey (2007). **Java Structures**, sqrt(7)e.
 
