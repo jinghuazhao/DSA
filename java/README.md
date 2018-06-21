@@ -20,7 +20,7 @@ wget http://www.cs.williams.edu/JavaStructures/Software_files/structure-source.t
 wget http://www.cs.williams.edu/JavaStructures/Examples_files/structure-examples.tgz
 ```
 
-### Robert Sedgewick, Kevin Wayne (2011), **Algorithms, 4e**, Addison-Wesley
+### Robert Sedgewick, Kevin Wayne (2011), **Algorithms, 4e**, Pearson.
 
 https://algs4.cs.princeton.edu/home/
 
