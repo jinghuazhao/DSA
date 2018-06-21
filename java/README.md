@@ -1,4 +1,4 @@
-## Java programs
+## Java
 
 We start with [Average.java](https://introcs.cs.princeton.edu/java/15inout/Average.java),
 ```bash
