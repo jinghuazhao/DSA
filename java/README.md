@@ -46,5 +46,9 @@ Alternatively, we can use `algs4.jar` directly,
 ```bash
 java -cp .:algs4.jar edu.princeton.cs.algs4.FFT 2
 ```
+Should we not unjar `stdlib.jar` above, the call would otherwise be
+```bash
+java -cp .:algs4.jar:stdlib.jar edu.princeton.cs.algs4.FFT 2
+```
 
 Finally, we could build `algs4-1.0.0.0.jar` with maven, i.e., `mvn` so the much desired .jar is in the target/ directory whose content can be listed with `jar tvf` just as `tar tvf`.
