@@ -36,14 +36,14 @@ https://algs4.cs.princeton.edu/home/
   * https://introcs.cs.princeton.edu/java/stdlib/
   * https://www.cs.princeton.edu/~rs/
 
-We have a go with precompiled versions,
+The jar files can be used directly,
 ```bash
 wget https://algs4.cs.princeton.edu/code/algs4.jar
 wget https://introcs.cs.princeton.edu/java/stdlib/stdlib.jar
 java -cp .:algs4.jar:stdlib.jar edu.princeton.cs.algs4.FFT 2
 export wd=$(PWD)
 ```
-and for closer examination of the implementation, we do
+and to examine closely the code, we do
 ```bash
 git clone https://github.com/kevin-wayne/algs4
 cd algs4
@@ -54,4 +54,4 @@ wget https://algs4.cs.princeton.edu/44sp/jobsPC.txt
 javac edu/princeton/cs/algs4/CPM.java
 java -cp .:stdlib.jar edu.princeton.cs.algs4.CPM < jobsPC.txt
 ```
-By invoking `mvn package` above `algs4-1.0.0.0.jar` is built with maven to the target/ directory whose content can be listed with `jar tvf` just as `tar tvf`.
+where `mvn package` builds `algs4-1.0.0.0.jar` through `maven` to the target/ directory whose content can be listed with `jar tvf` just as `tar tvf`.
