@@ -19,6 +19,14 @@ wget http://www.cs.williams.edu/JavaStructures/Software_files/bailey.jar
 wget http://www.cs.williams.edu/JavaStructures/Software_files/structure-source.tgz
 wget http://www.cs.williams.edu/JavaStructures/Examples_files/structure-examples.tgz
 ```
+We run Sort.java from `structure-examples.tgz`,
+```bash
+tar fvzx structure-examples.tgz
+cp eg/structure5/Sort.java .
+javac Sort.java
+java -cp .:bailey.jar Sort
+```
+and key in some numbers and end with Ctrl-D to get the desired sequence.
 
 ### 2. Robert Sedgewick, Kevin Wayne (2011), **Algorithms, 4e**, Pearson.
 
