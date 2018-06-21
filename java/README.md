@@ -44,7 +44,7 @@ wget https://introcs.cs.princeton.edu/java/stdlib/stdlib.jar
 java -cp .:algs4.jar:stdlib.jar edu.princeton.cs.algs4.FFT 2
 export wd=$(PWD)
 ```
-and to closely examine the code, we do
+where we note down the working directory (`wd`) and to closely examine the code, we do
 ```bash
 git clone https://github.com/kevin-wayne/algs4
 cd algs4
