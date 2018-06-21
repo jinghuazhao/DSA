@@ -19,7 +19,7 @@ wget http://www.cs.williams.edu/JavaStructures/Software_files/bailey.jar
 wget http://www.cs.williams.edu/JavaStructures/Software_files/structure-source.tgz
 wget http://www.cs.williams.edu/JavaStructures/Examples_files/structure-examples.tgz
 ```
-We run Sort.java from `structure-examples.tgz`,
+We run `Sort.java` from `structure-examples.tgz`,
 ```bash
 tar fvzx structure-examples.tgz
 cp eg/structure5/Sort.java .
