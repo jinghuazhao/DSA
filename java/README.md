@@ -32,6 +32,7 @@ and type a list of numbers to the console and end with Ctrl-D to get the sorted 
 
 https://algs4.cs.princeton.edu/home/
 
+The following URLs also contain relevant information
   * https://github.com/kevin-wayne/algs4
   * https://introcs.cs.princeton.edu/java/stdlib/
   * https://www.cs.princeton.edu/~rs/
