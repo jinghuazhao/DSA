@@ -50,9 +50,8 @@ git clone https://github.com/kevin-wayne/algs4
 cd algs4
 mvn package
 cd src/main/java/
-ln -sf $wd/stdlib.jar
 wget https://algs4.cs.princeton.edu/44sp/jobsPC.txt
 javac edu/princeton/cs/algs4/CPM.java
-java -cp .:stdlib.jar edu.princeton.cs.algs4.CPM < jobsPC.txt
+java -cp .:$wd/stdlib.jar edu.princeton.cs.algs4.CPM < jobsPC.txt
 ```
 where `mvn package` builds `algs4-1.0.0.0.jar` through `maven` to the target/ directory whose content can be listed with `jar tvf` just as `tar tvf`.
