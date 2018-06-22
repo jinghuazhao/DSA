@@ -8,7 +8,7 @@ java Average
 ```
 and continue with two references.
 
-### 1. Duan A. Bailey (2007). **Java Structures**, sqrt(7)e, http://www.cs.williams.edu/JavaStructures/Book_files/JavaStructures.pdf.
+### 1. Bailey DA (2007). **Java Structures**, sqrt(7)e, http://www.cs.williams.edu/JavaStructures/Book_files/JavaStructures.pdf.
 
 http://www.cs.williams.edu/JavaStructures and http://www.cs.williams.edu/~bailey/JavaStructures/JS-site.tgz
 
@@ -28,7 +28,7 @@ java -cp .:bailey.jar Sort
 ```
 and type a list of numbers to the console and end with Ctrl-D to get the sorted sequence.
 
-### 2. Robert Sedgewick, Kevin Wayne (2011), **Algorithms, 4e**, Pearson.
+### 2. Sedgewick R, Wayne K (2011), **Algorithms, 4e**, Pearson.
 
 https://algs4.cs.princeton.edu/home/
 
