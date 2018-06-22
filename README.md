@@ -1,7 +1,7 @@
 # DSA
 Data Structures and Algorithms
 
-The repository contains information on data structures and algorithms. While the implementation is standard, informaiton on outstanding library will be added on when appropriate.
+The repository contains information on data structures and algorithms. While it is pedagogical, addition of outstanding library will be considered.
 
 ## References
 
