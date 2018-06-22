@@ -1,7 +1,7 @@
 # DSA
 Data Structures and Algorithms
 
-The repository is pedagogical, and addition of outstanding library will be considered.
+The repository is pedagogical, and addition of outstanding libraries will be considered.
 
 ## References
 
