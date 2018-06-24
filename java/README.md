@@ -62,7 +62,7 @@ https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Java%2C+6th+Editio
 
 which is in accordance with its C++ and Python counterpart.
 
-### 4. Koffman EB, Wolfgane PAT (2016). Data Structures, Abstraction and Design Using Java, 3e. Wiley.
+### 4. Koffman EB, Wolfgang PAT (2016). Data Structures, Abstraction and Design Using Java, 3e. Wiley.
 
 https://www.wiley.com/en-us/Data+Structures,+Abstraction+and+Design+Using+Java,+3rd+Edition-p-9781119239147
 
