@@ -6,7 +6,7 @@ wget https://introcs.cs.princeton.edu/java/15inout/Average.java
 javac Average.java
 java Average
 ```
-and continue with three references.
+and continue with four references.
 
 ### 1. Bailey DA (2007). **Java Structures**, sqrt(7)e, http://www.cs.williams.edu/JavaStructures/Book_files/JavaStructures.pdf.
 
@@ -61,3 +61,9 @@ where `mvn package` builds `algs4-1.0.0.0.jar` through `maven` to the target/ di
 https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Java%2C+6th+Edition-p-9781118803141
 
 which is in accordance with its C++ and Python counterpart.
+
+### 4. Koffman EB, Wolfgane PAT (2016). Data Structures, Abstraction and Design Using Java, 3e. Wiley.
+
+https://www.wiley.com/en-us/Data+Structures,+Abstraction+and+Design+Using+Java,+3rd+Edition-p-9781119239147
+
+which is more recent.
