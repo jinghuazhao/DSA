@@ -7,7 +7,7 @@ It also worths to see
 
 * Simultaneous implementations (in C, C++, Java, Python, etc.) from  https://www.geeksforgeeks.org/.
 * Book examples from Publishers, e.g.,
-  * APress, https://github.com/apress
+  * Apress, https://github.com/apress
   * Packt, https://github.com/PacktPublishing
 
 ## References
