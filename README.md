@@ -6,7 +6,7 @@ The repository is pedagogical, esp. with cross-references in C++, Java and Pytho
 * [C](C)
 * [C++](C++)
 * [Java](java)
-* [Python](Python)
+* [Python](python)
 
 It also worths to see Simultaneous implementations (in C, C++, Java, Python, etc.) from  https://www.geeksforgeeks.org/.
 
