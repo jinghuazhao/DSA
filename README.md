@@ -14,4 +14,4 @@ It also worths to see Simultaneous implementations (in C, C++, Java, Python, etc
 
 Skiena SS (2010). The Algorithm Design Manual, 2e. Springer.
 
-[sidsite](https://sidsite.com/). The Fourier transform is a neural network, https://sidsite.com/posts/fourier-nets/.
+[sidsite](https://sidsite.com/). The Fourier transform is a neural network, [https://sidsite.com/posts/fourier-nets/](https://sidsite.com/posts/fourier-nets/).
