@@ -12,12 +12,12 @@ It also worths to see Simultaneous implementations (in C, C++, Java, Python, etc
 
 ## References
 
+Best Algorithms and Data Structures Books, <https://softpanorama.org/Bookshelf/Computers/algorithms.shtml>
+
+Computer Science Data Structure, Algorithm, Angular, React, etc, <https://jojozhuang.github.io/>
+
 Skiena SS (2010). The Algorithm Design Manual, 2e. Springer.
 
 [sidsite](https://sidsite.com/). The Fourier transform is a neural network, [https://sidsite.com/posts/fourier-nets/](https://sidsite.com/posts/fourier-nets/).
 
 [https://bellard.org/](https://bellard.org/).
-
-<https://softpanorama.org/Bookshelf/Computers/algorithms.shtml>
-
-Computer Science Data Structure, Algorithm, Angular, React, etc, <https://jojozhuang.github.io/>
