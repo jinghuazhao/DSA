@@ -8,6 +8,8 @@
 
 [http://knuth.luther.edu/~leekent/CS2Plus/](http://knuth.luther.edu/~leekent/CS2Plus/)
 
+The 2nd Edition, <https://link.springer.com/book/10.1007/978-3-031-42209-6>
+
 ### 3. Algorithms -- Pythonic Data Structures and Algorithms
 
 [https://github.com/keon/algorithms](https://github.com/keon/algorithms)
