@@ -56,13 +56,15 @@ java -cp .:$wd/stdlib.jar edu.princeton.cs.algs4.CPM < jobsPC.txt
 ```
 where `mvn package` builds `algs4-1.0.0.0.jar` through `maven` to the target/ directory whose content can be listed with `jar tvf` just as `tar tvf`.
 
-### 3. Goodrich MT, Tamassia R, Goldwasser MH (2014). Data Structures and Algorithms in Java, 6e. Wiley.
+### 3. Weiss MA (2012). **Data Structures and Algorithm Analysis in Java**, 3e, Pearson.
+
+### 4. Goodrich MT, Tamassia R, Goldwasser MH (2014). **Data Structures and Algorithms in Java**, 6e, Wiley.
 
 https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Java%2C+6th+Edition-p-9781118803141
 
 which is in accordance with its C++ and Python counterpart.
 
-### 4. Koffman EB, Wolfgang PAT (2016). Data Structures-Abstraction and Design Using Java, 3e. Wiley.
+### 5. Koffman EB, Wolfgang PAT (2016). **Data Structures-Abstraction and Design Using Java**, 3e, Wiley.
 
 https://www.wiley.com/en-us/Data+Structures,+Abstraction+and+Design+Using+Java,+3rd+Edition-p-9781119239147
 
