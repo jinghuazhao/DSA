@@ -11,7 +11,9 @@
 A more modern summary is given by the author in Weiss MA (2018). Data Structures in C++, Chapter 43 in 
 Mehta DP, Sahni S (eds). Handbook of Data Structures and Applications, 2e, CRC.
 
-### 3. Ammeraal, L.
+### 3. Carrano FM, Henry TM (2017). **Data Abstraction & Problem Solving with C++**, 7e, Pearson.
+
+### 4. Ammeraal, L.
 
 - Algorithms and Data Structures in C++
 
