@@ -26,3 +26,7 @@ Mehta DP, Sahni S (eds). Handbook of Data Structures and Applications, 2e, CRC.
 - C++ for Programmers
 
     <http://home.planet.nl/~ammeraal/cppbook.html>
+
+### 5. Heineman G, Pollice G, Selkow S (2016). Algorithms in a Nutshell, 2e, O’Reilly Media, Inc.
+
+GitHub, <https://github.com/heineman/algorithms-nutshell-2ed>
