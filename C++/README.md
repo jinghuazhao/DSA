@@ -1,5 +1,13 @@
 ## C++
 
+## Facebook folly
+
+Web: <https://github.com/facebook/folly>
+
+### Microsoft STL.
+
+Web: <https://github.com/microsoft/STL>
+
 ### 1. Goodrich MT, Tamassia R, Mount DM (2011). Data Structures and Algorithms in C++, 2e. Wiley
 
 <https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+C+++2nd+Edition-p-9780470383278>
