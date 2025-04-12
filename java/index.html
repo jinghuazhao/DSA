@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../img/favicon.ico">
+        <title>Java - DSA</title>
+        <link href="../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/Bash.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/HTML.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/Java.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/JavaScript.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/Perl.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/Python.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/R.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/rust.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/yaml.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+            <div class="container">
+                <a class="navbar-brand" href="..">DSA</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="navitem">
+                                <a href=".." class="nav-link"></a>
+                            </li>
+                            <li class="navitem">
+                                <a href="../C/" class="nav-link">C</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="../C%2B%2B/" class="nav-link">C++</a>
+                            </li>
+                            <li class="navitem active">
+                                <a href="./" class="nav-link">Java</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="../python/" class="nav-link">Pytho</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="../doc/" class="nav-link">Theory</a>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="nav-item">
+                                <a rel="prev" href="../C%2B%2B/" class="nav-link">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="../python/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://github.com/jinghuazhao/DSA" class="nav-link"><i class="fa fa-github"></i> GitHub</a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="2"><a href="#java" class="nav-link">Java</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h2 id="java">Java</h2>
+<p>We start with <a href="https://introcs.cs.princeton.edu/java/15inout/Average.java">Average.java</a>,</p>
+<pre><code class="language-bash">wget https://introcs.cs.princeton.edu/java/15inout/Average.java
+javac Average.java
+java Average
+</code></pre>
+<p>and continue with four references.</p>
+<h3 id="1-bailey-da-2007-java-structures-sqrt7e-httpwwwcswilliamsedujavastructuresbook_filesjavastructurespdf">1. Bailey DA (2007). <strong>Java Structures</strong>, sqrt(7)e, http://www.cs.williams.edu/JavaStructures/Book_files/JavaStructures.pdf.</h3>
+<p>http://www.cs.williams.edu/JavaStructures and http://www.cs.williams.edu/~bailey/JavaStructures/JS-site.tgz</p>
+<p>This is the simpler of the two in terms of setup.</p>
+<pre><code class="language-bash">wget http://www.cs.williams.edu/JavaStructures/Software_files/bailey.jar
+wget http://www.cs.williams.edu/JavaStructures/Software_files/structure-source.tgz
+wget http://www.cs.williams.edu/JavaStructures/Examples_files/structure-examples.tgz
+</code></pre>
+<p>We run <code>Sort.java</code> from <code>structure-examples.tgz</code>,</p>
+<pre><code class="language-bash">tar fvzx structure-examples.tgz
+cp eg/structure5/Sort.java .
+javac Sort.java
+java -cp .:bailey.jar Sort
+</code></pre>
+<p>and type a list of numbers to the console and end with Ctrl-D to get the sorted sequence.</p>
+<h3 id="2-sedgewick-r-wayne-k-2011-algorithms-4e-pearson">2. Sedgewick R, Wayne K (2011), <strong>Algorithms, 4e</strong>, Pearson.</h3>
+<p>https://algs4.cs.princeton.edu/home/</p>
+<p>The following URLs also contain relevant information
+  * https://github.com/kevin-wayne/algs4
+  * https://introcs.cs.princeton.edu/java/stdlib/
+  * https://www.cs.princeton.edu/~rs/</p>
+<p>The jar files can be used directly,</p>
+<pre><code class="language-bash">wget https://algs4.cs.princeton.edu/code/algs4.jar
+wget https://introcs.cs.princeton.edu/java/stdlib/stdlib.jar
+java -cp .:algs4.jar:stdlib.jar edu.princeton.cs.algs4.FFT 2
+export wd=$(PWD)
+</code></pre>
+<p>where we note down the working directory (<code>wd</code>) and to closely examine the code, we do</p>
+<pre><code class="language-bash">git clone https://github.com/kevin-wayne/algs4
+cd algs4
+mvn package
+cd src/main/java/
+wget https://algs4.cs.princeton.edu/44sp/jobsPC.txt
+javac edu/princeton/cs/algs4/CPM.java
+java -cp .:$wd/stdlib.jar edu.princeton.cs.algs4.CPM &lt; jobsPC.txt
+</code></pre>
+<p>where <code>mvn package</code> builds <code>algs4-1.0.0.0.jar</code> through <code>maven</code> to the target/ directory whose content can be listed with <code>jar tvf</code> just as <code>tar tvf</code>.</p>
+<h3 id="3-weiss-ma-2012-data-structures-and-algorithm-analysis-in-java-3e-pearson">3. Weiss MA (2012). <strong>Data Structures and Algorithm Analysis in Java</strong>, 3e, Pearson.</h3>
+<h3 id="4-goodrich-mt-tamassia-r-goldwasser-mh-2014-data-structures-and-algorithms-in-java-6e-wiley">4. Goodrich MT, Tamassia R, Goldwasser MH (2014). <strong>Data Structures and Algorithms in Java</strong>, 6e, Wiley.</h3>
+<p>https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Java%2C+6th+Edition-p-9781118803141</p>
+<p>which is in accordance with its C++ and Python counterpart.</p>
+<h3 id="5-koffman-eb-wolfgang-pat-2016-data-structures-abstraction-and-design-using-java-3e-wiley">5. Koffman EB, Wolfgang PAT (2016). <strong>Data Structures-Abstraction and Design Using Java</strong>, 3e, Wiley.</h3>
+<p>https://www.wiley.com/en-us/Data+Structures,+Abstraction+and+Design+Using+Java,+3rd+Edition-p-9781119239147</p>
+<p>which is more recent.</p></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="../js/jquery-3.6.0.min.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
+        <script>
+            var base_url = "..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../js/base.js"></script>
+        <script src="../search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
