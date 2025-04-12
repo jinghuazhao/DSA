@@ -17,3 +17,7 @@ The 2nd Edition, <https://link.springer.com/book/10.1007/978-3-031-42209-6>
 ### 4. Introduction to Algorithms, 4e
 
 [http://mitpress.mit.edu/algorithms/](https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition)
+
+### 5. Kneusel RT (2025). Math for Programming - Learn the Math, Write Better Code
+
+<https://github.com/rkneusel9/MathForProgramming>
