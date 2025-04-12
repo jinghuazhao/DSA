@@ -6,9 +6,9 @@
 
 ### 2. Lee KD, Hubbard S (2015). Data Structures and Algorithms with Python. Springer
 
-<http://knuth.luther.edu/~leekent/CS2Plus/>
-
 The 2nd Edition, <https://link.springer.com/book/10.1007/978-3-031-42209-6>
+
+<http://knuth.luther.edu/~leekent/CS2Plus/> & <https://kentdlee.github.io/CS2Plus/build/html/index.html>
 
 ### 3. Algorithms -- Pythonic Data Structures and Algorithms
 
