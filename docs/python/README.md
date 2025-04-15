@@ -24,14 +24,14 @@ python < mnist.py
    GitHub repository: [https://github.com/awwalm/DSAlgoPy](https://github.com/awwalm/DSAlgoPy)
 
 2. **Lee, Kent D., and Steve Hubbard.**  
-   *Data Structures and Algorithms with Python*. 2nd ed., Springer, 2015.  
+   *Data Structures and Algorithms with Python*. 2nd ed., Springer, 2024.
    Springer link: [https://link.springer.com/book/10.1007/978-3-031-42209-6](https://link.springer.com/book/10.1007/978-3-031-42209-6)  
    Course website: [http://knuth.luther.edu/~leekent/CS2Plus/](http://knuth.luther.edu/~leekent/CS2Plus/)  
    Online documentation: [https://kentdlee.github.io/CS2Plus/build/html/index.html](https://kentdlee.github.io/CS2Plus/build/html/index.html)
 
 3. **Keon.**  
-   *Algorithms -- Pythonic Data Structures and Algorithms*. GitHub,  
-   [https://github.com/keon/algorithms](https://github.com/keon/algorithms)
+   *Algorithms -- Pythonic Data Structures and Algorithms*.
+   GitHub, [https://github.com/keon/algorithms](https://github.com/keon/algorithms)
 
 4. **Cormen, Thomas H., et al.**  
    *Introduction to Algorithms*. 4th ed., MIT Press, 2021.  
