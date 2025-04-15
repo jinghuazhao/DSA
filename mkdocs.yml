@@ -1,0 +1,25 @@
+site_name: DSA
+repo_url: https://github.com/jinghuazhao/DSA
+edit_uri: ""
+nav:
+    - "": README.md
+    - C: C/README.md
+    - C++: C++/README.md
+    - Java: java/README.md
+    - Python: python/README.md
+    - Theory: doc/README.md
+
+theme:
+    name: mkdocs
+    nav_style: dark
+    highlightjs: true
+    hljs_languages:
+        - Bash
+        - HTML
+        - Java
+        - JavaScript
+        - Perl
+        - Python
+        - R
+        - rust
+        - yaml
