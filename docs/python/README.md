@@ -1,27 +1,46 @@
-## Python
+# Python
 
-### 1. Goodrich MT, Tamassia R, Goldwasser MH (2013). Data Structures and Algorithms in Python. Wiley.
+## An example
+
+This is to run the Chapter 10 codes in reference 6 below.
+
+```python
+module load python/3.9.12/gcc/pdcqf4o5
+python -m venv venv
+source venv/bin/activate
+pip install opencv-python
+pip install scikit-learn
+pip install keras
+pip install tensorflow
+python < iris.py
+python < nn_by_hand.py
+python < mnist.py
+```
+
+## References
+
+1. Goodrich MT, Tamassia R, Goldwasser MH (2013). Data Structures and Algorithms in Python. Wiley.
 
 <https://github.com/awwalm/DSAlgoPy>
 
-### 2. Lee KD, Hubbard S (2015). Data Structures and Algorithms with Python. Springer
+2. Lee KD, Hubbard S (2015). Data Structures and Algorithms with Python. Springer
 
 The 2nd Edition, <https://link.springer.com/book/10.1007/978-3-031-42209-6>
 
 <http://knuth.luther.edu/~leekent/CS2Plus/> & <https://kentdlee.github.io/CS2Plus/build/html/index.html>
 
-### 3. Algorithms -- Pythonic Data Structures and Algorithms
+3. Algorithms -- Pythonic Data Structures and Algorithms
 
 <https://github.com/keon/algorithms>
 
-### 4. Introduction to Algorithms, 4e
+4. Introduction to Algorithms, 4e
 
 [http://mitpress.mit.edu/algorithms/](https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition)
 
-### 5. Kneusel RT (2025). Math for Programming - Learn the Math, Write Better Code
+5. Kneusel RT (2025). Math for Programming - Learn the Math, Write Better Code
 
 <https://github.com/rkneusel9/MathForProgramming>
 
-### 6. Kneusel RT (2021). Math for Deep Learning - What You Need to Know to Understand Neural Networks
+6. Kneusel RT (2021). Math for Deep Learning - What You Need to Know to Understand Neural Networks
 
 <https://github.com/rkneusel9/MathForDeepLearning>
