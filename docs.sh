@@ -19,7 +19,7 @@ mkdocs gh-deploy
 
 git add README.md
 git commit -m "README"
-for d in doc C C++ java python st.sh
+for d in .gitignore docs mkdocs.yml
 do
    git add $d
    git commit -m "$d"
