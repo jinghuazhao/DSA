@@ -8,6 +8,8 @@ nav:
     - Java: java/README.md
     - Python: python/README.md
     - Theory: doc/README.md
+validation:
+  unrecognized_links: ignore
 
 theme:
     name: mkdocs
