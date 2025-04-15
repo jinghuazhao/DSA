@@ -19,28 +19,28 @@ python < mnist.py
 
 ## References
 
-1. Goodrich MT, Tamassia R, Goldwasser MH (2013). Data Structures and Algorithms in Python. Wiley.
+1. **Goodrich, Michael T., Roberto Tamassia, and Michael H. Goldwasser.**  
+   *Data Structures and Algorithms in Python*. Wiley, 2013.  
+   GitHub repository: [https://github.com/awwalm/DSAlgoPy](https://github.com/awwalm/DSAlgoPy)
 
-<https://github.com/awwalm/DSAlgoPy>
+2. **Lee, Kent D., and Steve Hubbard.**  
+   *Data Structures and Algorithms with Python*. 2nd ed., Springer, 2015.  
+   Springer link: [https://link.springer.com/book/10.1007/978-3-031-42209-6](https://link.springer.com/book/10.1007/978-3-031-42209-6)  
+   Course website: [http://knuth.luther.edu/~leekent/CS2Plus/](http://knuth.luther.edu/~leekent/CS2Plus/)  
+   Online documentation: [https://kentdlee.github.io/CS2Plus/build/html/index.html](https://kentdlee.github.io/CS2Plus/build/html/index.html)
 
-2. Lee KD, Hubbard S (2015). Data Structures and Algorithms with Python. Springer
+3. **Keon.**  
+   *Algorithms -- Pythonic Data Structures and Algorithms*. GitHub,  
+   [https://github.com/keon/algorithms](https://github.com/keon/algorithms)
 
-The 2nd Edition, <https://link.springer.com/book/10.1007/978-3-031-42209-6>
+4. **Cormen, Thomas H., et al.**  
+   *Introduction to Algorithms*. 4th ed., MIT Press, 2021.  
+   Publisher link: [https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition](https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition)
 
-<http://knuth.luther.edu/~leekent/CS2Plus/> & <https://kentdlee.github.io/CS2Plus/build/html/index.html>
+5. **Kneusel, Robert T.**  
+   *Math for Programming: Learn the Math, Write Better Code*. 2025.  
+   GitHub repository: [https://github.com/rkneusel9/MathForProgramming](https://github.com/rkneusel9/MathForProgramming)
 
-3. Algorithms -- Pythonic Data Structures and Algorithms
-
-<https://github.com/keon/algorithms>
-
-4. Introduction to Algorithms, 4e
-
-[http://mitpress.mit.edu/algorithms/](https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition)
-
-5. Kneusel RT (2025). Math for Programming - Learn the Math, Write Better Code
-
-<https://github.com/rkneusel9/MathForProgramming>
-
-6. Kneusel RT (2021). Math for Deep Learning - What You Need to Know to Understand Neural Networks
-
-<https://github.com/rkneusel9/MathForDeepLearning>
+6. **Kneusel, Robert T.**  
+   *Math for Deep Learning: What You Need to Know to Understand Neural Networks*. 2021.  
+   GitHub repository: [https://github.com/rkneusel9/MathForDeepLearning](https://github.com/rkneusel9/MathForDeepLearning)
