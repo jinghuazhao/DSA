@@ -33,9 +33,9 @@ and type a list of numbers to the console and end with Ctrl-D to get the sorted 
 https://algs4.cs.princeton.edu/home/
 
 The following URLs also contain relevant information
-  * https://github.com/kevin-wayne/algs4
-  * https://introcs.cs.princeton.edu/java/stdlib/
-  * https://www.cs.princeton.edu/~rs/
+  * <https://github.com/kevin-wayne/algs4>
+  * <https://introcs.cs.princeton.edu/java/stdlib/>
+  * <https://www.cs.princeton.edu/~rs/>
 
 The jar files can be used directly,
 ```bash
@@ -60,12 +60,12 @@ where `mvn package` builds `algs4-1.0.0.0.jar` through `maven` to the target/ di
 
 ### 4. Goodrich MT, Tamassia R, Goldwasser MH (2014). **Data Structures and Algorithms in Java**, 6e, Wiley.
 
-https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Java%2C+6th+Edition-p-9781118803141
+<https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Java%2C+6th+Edition-p-9781118803141>
 
 which is in accordance with its C++ and Python counterpart.
 
-### 5. Koffman EB, Wolfgang PAT (2016). **Data Structures-Abstraction and Design Using Java**, 3e, Wiley.
+### 5. Koffman EB, Wolfgang PAT (2021). **Data Structures-Abstraction and Design Using Java**, 4e, Wiley. ISBN: 9781119703617.
 
-https://www.wiley.com/en-us/Data+Structures,+Abstraction+and+Design+Using+Java,+3rd+Edition-p-9781119239147
+<https://www.wiley.com/en-us/Data+Structures%3A+Abstraction+and+Design+Using+Java%2C+4th+Edition-p-9781119703594>
 
 which is more recent.
